@@ -1,0 +1,64 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.logo {
+    width: 120px;
+}
+.nav-link {
+    font-size: 15px;
+}
+.nav-item {
+    padding-right: 20px;
+}
+.hero-img {
+    width: 500px;
+}
+.prince {
+    color: #B56A45;
+}
+.text-answer {
+    font-weight: bold;
+}
+.text-pengiriman {
+    font-size: 12px;
+}
+.text-ongkir {
+    font-size: 16px;
+}
+.text-jumbfoot {
+    font-size: 12px;
+}
+.form-select {
+    width: 160px;
+    background-color: #ffc107;
+    color: white;
+    cursor: pointer;
+}
+.opt {
+    background-color: white;
+    color: black;
+}
+.minplus {
+    padding-right: 10px;
+}
+.logos {
+    width: 100px;
+}
+.copyright-text {
+    font-size: 14px;
+}.input-date {
+    text-align: left;
+}
+.input-number-date {
+    width: 140px;
+    height: 38px;
+}
+.btn-input-minus {
+    width: 40px;
+    background-color: #adb5bd ;
+}
+.btn-input-plus {
+    width: 40px;
+    background-color: #ffc107;
+    color: white;
+}

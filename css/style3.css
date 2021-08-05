@@ -1,0 +1,63 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link {
+    font-size: 15px;
+}
+.nav-item {
+    padding-right: 20px;
+}
+.foto-profil {
+    width: 80px;
+    place-self: center;
+}
+.box-title {
+    font-size: 36px;
+}
+.box-body {
+    display: flex;
+    place-content: center;
+}
+.myprof {
+    margin-right: 40px;
+}
+.link-profil {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+}
+.all-card {
+    display: flex;
+    justify-content: center;
+}
+.titik-dua {
+    margin-left: 60px;
+}
+.titik-dua2 {
+    margin-left: 97px;
+}
+.titik-dua3 {
+    margin-left: 100px;
+}
+.titik-dua4 {
+    margin-left: 10;
+}
+.text-logout {
+    font-weight: bold;
+}
+.text-footer {
+    font-size: 13px;
+}
+.logos {
+    width: 100px;
+}
+.btn {
+    width: 350px;
+    height: 39px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+}
+.name-goods {
+    text-decoration: none;
+    color: black;
+}
